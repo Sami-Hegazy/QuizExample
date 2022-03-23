@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Example</string>
+
+    <string name="a_sample_word">A sample word</string>
+    <string name="a_sample_description_should_be_deleted">A sample description. Should be deleted.</string>
+
+    <string name="show_definition">Show Definition</string>
+    <string name="next_word">Next Word</string>
+</resources>
